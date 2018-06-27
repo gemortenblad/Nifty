@@ -17,8 +17,6 @@ namespace CMDStuff
             
             var fw = new FileWriter();
             fw.WriteToFile("c:\\temp\\myfile.txt", timespan.ToString());
-            
-
         }
     }
 

@@ -1,0 +1,12 @@
+﻿@{
+  ViewBag.Title = "Home Page";
+}
+
+<div class="playVideoDiv">  
+  
+  <h3>TEST</h3>
+  
+  <video id="videoPlay"  width="480" height="400"  controls autoplay> 
+    <source src= "@Url.Action("GetVideo", "Home" )"  />  
+  </video> 
+</div>  

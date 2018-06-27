@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872c1306-0b24-41bb-8b9b-2e769ffd6e7e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nifty/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nifty/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Nifty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nifty/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nifty/Nifty.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Nifty/Nifty.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nifty/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Nifty/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nifty/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Nifty/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMDStuff/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CMDStuff/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nifty.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Nifty.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,63 +17,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="packages.config" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Nifty/packages.config">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMDStuff/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="26" column="82" lean-forward="true" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+            <state relative-caret-position="209">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <marker date="1529494570036" expanded="false" signature="6:80" ph="..." />
+                <marker date="1529494570036" expanded="true" signature="100:1258" ph="{...}" />
+                <marker date="1529494570036" expanded="true" signature="120:521" ph="{...}" />
+                <marker date="1529494570036" expanded="true" signature="166:515" ph="{...}" />
+                <marker date="1529494570036" expanded="true" signature="557:921" ph="{...}" />
+                <marker date="1529494570036" expanded="true" signature="602:915" ph="{...}" />
+                <marker date="1529494570036" expanded="true" signature="952:1256" ph="{...}" />
+                <marker date="1529494570036" expanded="true" signature="1034:1250" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nifty/Startup.cs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nifty/Controllers/HomeController.cs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nifty/Views/Home/Index.cshtml">
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebStuff/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+            <state relative-caret-position="342">
+              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
               <folding>
-                <marker date="1529487583821" expanded="true" signature="28:62" ph="@..." />
-                <marker date="1529487583821" expanded="true" signature="64:695" ph="&lt;div.../&gt;" />
-                <marker date="1529487583821" expanded="true" signature="86:688" ph="&lt;div.../&gt;" />
-                <marker date="1529487583821" expanded="true" signature="262:601" ph="@*...*@" />
+                <marker date="1530107514142" expanded="true" signature="6:150" ph="..." />
+                <marker date="1530107514142" expanded="true" signature="182:3382" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="229:3380" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="271:318" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="377:1631" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="701:1576" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="1705:3365" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="1786:1903" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="1920:3179" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="2177:2861" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="2306:2843" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="2430:2821" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="2963:3134" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="3199:3355" ph="{...}" />
+                <marker date="1530107514142" expanded="true" signature="3248:3341" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nifty/Views/Shared/_Layout.cshtml">
+        <entry file="file://$PROJECT_DIR$/WebStuff/Views/Shared/_Layout.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="288">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+              <folding>
+                <marker date="1530107427933" expanded="true" signature="16:760" ph="&lt;html.../&gt;" />
+                <marker date="1530107427933" expanded="true" signature="23:370" ph="&lt;head.../&gt;" />
+                <marker date="1530107427933" expanded="true" signature="371:752" ph="&lt;body.../&gt;" />
+                <marker date="1530107427933" expanded="true" signature="379:504" ph="&lt;div.../&gt;" />
+                <marker date="1530107427933" expanded="true" signature="443:497" ph="&lt;footer.../&gt;" />
+                <marker date="1530107427933" expanded="true" signature="506:700" ph="&lt;environment.../&gt;" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMDStuff/Program.cs">
+      <file leaf-file-name="_ViewStart.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebStuff/Views/_ViewStart.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+            <state>
               <folding>
-                <marker date="1529487005709" expanded="true" signature="6:56" ph="..." />
-                <marker date="1529487005709" expanded="true" signature="100:1272" ph="{...}" />
-                <marker date="1529487005709" expanded="true" signature="120:535" ph="{...}" />
-                <marker date="1529487005709" expanded="true" signature="166:529" ph="{...}" />
-                <marker date="1529487005709" expanded="true" signature="571:935" ph="{...}" />
-                <marker date="1529487005709" expanded="true" signature="616:929" ph="{...}" />
-                <marker date="1529487005709" expanded="true" signature="966:1270" ph="{...}" />
-                <marker date="1529487005709" expanded="true" signature="1048:1264" ph="{...}" />
+                <marker date="1530105751364" expanded="true" signature="0:50" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebStuff/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <marker date="1530107352963" expanded="true" signature="0:35" ph="@..." />
+                <marker date="1530107352963" expanded="true" signature="37:235" ph="&lt;div.../&gt;" />
+                <marker date="1530107352963" expanded="true" signature="90:227" ph="&lt;video.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -89,13 +115,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Nifty/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.idea/config/applicationhost.config" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nifty/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nifty/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nifty/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebStuff/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebStuff/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CMDStuff/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Nifty/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebStuff/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebStuff/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -103,6 +128,10 @@
         <option value="$PROJECT_DIR$/CMDStuff/Program.cs" />
         <option value="$PROJECT_DIR$/Nifty/packages.config" />
         <option value="$PROJECT_DIR$/Nifty/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebStuff/Models/Streamer.cs" />
+        <option value="$PROJECT_DIR$/WebStuff/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebStuff/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/WebStuff/Controllers/HomeController.cs" />
       </list>
     </option>
   </component>
@@ -137,23 +166,43 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Nifty (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="CMDStuff" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebStuff" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Nifty (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Nifty" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebStuff" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Nifty (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Nifty" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Web.config" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebStuff" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Data" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Nifty (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebStuff" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Nifty (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebStuff" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Nifty (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebStuff" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
         </subPane>
-        <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
       <pane id="Scratches" />
@@ -194,18 +243,18 @@
     </configuration>
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="C:/Program Files (x86)/IIS Express/iisexpress.exe" />
-      <option name="PROGRAM_PARAMETERS" value="/config:$PROJECT_DIR$/.idea/config/applicationhost.config /site:Nifty /apppool:Clr4IntegratedAppPool" />
+      <option name="PROGRAM_PARAMETERS" value="/config:$PROJECT_DIR$/.idea/config/applicationhost.config /site:WebStuff /apppool:Clr4IntegratedAppPool" />
       <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/IIS Express" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Nifty/Nifty.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WebStuff/WebStuff.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Web" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
-      <browser start="true" url="http://localhost:53305/" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <browser start="true" url="http://localhost:5000" />
     </configuration>
     <list>
       <item itemvalue=".NET Project.Default" />
@@ -229,11 +278,12 @@
       <updated>1525776153567</updated>
       <workItem from="1525776156862" duration="4187000" />
       <workItem from="1529485954289" duration="1976000" />
+      <workItem from="1530105710188" duration="1800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6163000" />
+    <option name="totallyTimeSpent" value="7963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,19 +300,17 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.50278085" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.29032257" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="REST Client" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.02669633" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" anchor="bottom" id="NuGet" order="7" sideWeight="0.49733475" visible="true" weight="0.50278085" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14498934" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4968017" weight="0.03893215" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" weight="0.29048085" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49840087" visible="true" weight="0.29032257" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -270,8 +318,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,25 +335,52 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Nifty/packages.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
+        <state relative-caret-position="468">
+          <caret line="26" column="82" lean-forward="true" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nifty/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nifty/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nifty/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nifty/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMDStuff/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="594">
           <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
           <folding>
-            <marker date="1529487005709" expanded="true" signature="6:56" ph="..." />
-            <marker date="1529487005709" expanded="true" signature="100:1272" ph="{...}" />
-            <marker date="1529487005709" expanded="true" signature="120:535" ph="{...}" />
-            <marker date="1529487005709" expanded="true" signature="166:529" ph="{...}" />
-            <marker date="1529487005709" expanded="true" signature="571:935" ph="{...}" />
-            <marker date="1529487005709" expanded="true" signature="616:929" ph="{...}" />
-            <marker date="1529487005709" expanded="true" signature="966:1270" ph="{...}" />
-            <marker date="1529487005709" expanded="true" signature="1048:1264" ph="{...}" />
+            <marker date="1529494570036" expanded="false" signature="6:80" ph="..." />
+            <marker date="1529494570036" expanded="true" signature="100:1258" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="120:521" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="166:515" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="557:921" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="602:915" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="952:1256" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="1034:1250" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nifty/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
         </state>
       </provider>
     </entry>
@@ -324,19 +401,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
-          <folding>
-            <marker date="1529487583821" expanded="true" signature="28:62" ph="@..." />
-            <marker date="1529487583821" expanded="true" signature="64:695" ph="&lt;div.../&gt;" />
-            <marker date="1529487583821" expanded="true" signature="86:688" ph="&lt;div.../&gt;" />
-            <marker date="1529487583821" expanded="true" signature="262:601" ph="@*...*@" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Nifty/packages.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
-          <caret line="26" column="82" lean-forward="true" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+          <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMDStuff/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <marker date="1529494570036" expanded="false" signature="6:80" ph="..." />
+            <marker date="1529494570036" expanded="true" signature="100:1258" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="120:521" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="166:515" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="557:921" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="602:915" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="952:1256" ph="{...}" />
+            <marker date="1529494570036" expanded="true" signature="1034:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStuff/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1530105751364" expanded="true" signature="0:50" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStuff/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <marker date="1530107427933" expanded="true" signature="16:760" ph="&lt;html.../&gt;" />
+            <marker date="1530107427933" expanded="true" signature="23:370" ph="&lt;head.../&gt;" />
+            <marker date="1530107427933" expanded="true" signature="371:752" ph="&lt;body.../&gt;" />
+            <marker date="1530107427933" expanded="true" signature="379:504" ph="&lt;div.../&gt;" />
+            <marker date="1530107427933" expanded="true" signature="443:497" ph="&lt;footer.../&gt;" />
+            <marker date="1530107427933" expanded="true" signature="506:700" ph="&lt;environment.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStuff/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <marker date="1530107352963" expanded="true" signature="0:35" ph="@..." />
+            <marker date="1530107352963" expanded="true" signature="37:235" ph="&lt;div.../&gt;" />
+            <marker date="1530107352963" expanded="true" signature="90:227" ph="&lt;video.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStuff/Models/Streamer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStuff/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <marker date="1530107514142" expanded="true" signature="6:150" ph="..." />
+            <marker date="1530107514142" expanded="true" signature="182:3382" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="229:3380" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="271:318" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="377:1631" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="701:1576" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="1705:3365" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="1786:1903" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="1920:3179" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="2177:2861" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="2306:2843" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="2430:2821" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="2963:3134" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="3199:3355" ph="{...}" />
+            <marker date="1530107514142" expanded="true" signature="3248:3341" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

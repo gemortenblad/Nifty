@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{143375
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMDStuff", "CMDStuff\CMDStuff.csproj", "{E36F6FF4-AA18-485A-865D-AA3739DBD953}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStuff", "WebStuff\WebStuff.csproj", "{E657B459-A6A3-4FCC-A776-01F634294BEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{E36F6FF4-AA18-485A-865D-AA3739DBD953}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E36F6FF4-AA18-485A-865D-AA3739DBD953}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E36F6FF4-AA18-485A-865D-AA3739DBD953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E657B459-A6A3-4FCC-A776-01F634294BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E657B459-A6A3-4FCC-A776-01F634294BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E657B459-A6A3-4FCC-A776-01F634294BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E657B459-A6A3-4FCC-A776-01F634294BEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
