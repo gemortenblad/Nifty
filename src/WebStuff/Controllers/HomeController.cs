@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
-using System.Web.Mvc.Ajax;
 
 namespace WebStuff.Controllers
 {
@@ -20,8 +15,7 @@ namespace WebStuff.Controllers
         public ActionResult GetVideo() 
         { 
             var file = System.IO.File.OpenRead(@"C:\code\mycode\git\Nifty\src\WebStuff\Data\plastpasar.mp4");
- 
-            string name = "plastpasar"; 
+
             string contentType = "mp4"; 
             Byte[] video = ReadToEnd(file); 
             string mimeType; 
@@ -53,9 +47,9 @@ namespace WebStuff.Controllers
                     break; 
             } 
             return File(video, mimeType);  
-        } 
-        
-        public static byte[] ReadToEnd(System.IO.Stream stream)
+        }
+
+        private static byte[] ReadToEnd(System.IO.Stream stream)
         {
             long originalPosition = 0;
 
