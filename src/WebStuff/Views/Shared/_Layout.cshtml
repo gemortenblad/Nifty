@@ -7,6 +7,18 @@
   <link rel="stylesheet" href="~/Content/site.css" />
   <link rel="stylesheet" href="~/Content/bootstrap.css" />
   <link rel="stylesheet" href="~/Content/bootstrap-theme.css" />
+  
+  <script type="text/javascript">
+
+    function onLoad() {
+      var sec = parseInt(document.location.search.substr(1));
+                
+      if (!isNaN(sec))
+        mainPlayer.currentTime = sec;
+    }
+        
+  </script>
+  
 </head>
 <body>
 

@@ -7,6 +7,9 @@
   <h3>TEST</h3>
   
   <video id="videoPlay"  width="480" height="400"  controls autoplay> 
-    <source src= "@Url.Action("GetVideo", "Home" )"  />  
-  </video> 
+    @* <source src= "@Url.Action("GetVideo", "Home" )"  />   *@
+    <source src="api/video/play?f=praise-our-lord.mp4" />
+    @* <source src= "@Url.Action("Play", "Video" )"  /> *@
+  
+    </video> 
 </div>  

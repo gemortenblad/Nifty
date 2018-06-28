@@ -17,6 +17,26 @@ namespace CMDStuff
             
             var fw = new FileWriter();
             fw.WriteToFile("c:\\temp\\myfile.txt", timespan.ToString());
+            
+            
+//#if DEBUG
+//
+//            var stopwatch = new Stopwatch();
+//            stopwatch.Start();
+//#endif  
+//            
+//            //DOWORK();
+//            
+//#if DEBUG
+//
+//            stopwatch.Stop();
+//            WriteResultToFile(stopwatch.Elapsed);
+//            
+//#endif
+            
+            
+            
+            
         }
     }
 
@@ -44,5 +64,30 @@ namespace CMDStuff
             File.WriteAllText(filenameandpath, textToWrite);
             Console.WriteLine("Done writing!");
         }
+        
+        private void WriteResultToFile(TimeSpan stopwatchElapsed)
+        {
+            string path = @"c:\temp\getvideostats.txt";
+
+
+            // This text is added only once to the file.
+            if (!File.Exists(path)) 
+            {
+                // Create a file to write to.
+                using (StreamWriter sw = File.CreateText(path)) 
+                {
+                    sw.WriteLine("Milliseconds to load video stream");
+                }	
+            }
+
+            // This text is always added, making the file longer over time
+            // if it is not deleted.
+            using (StreamWriter sw = File.AppendText(path)) 
+            {
+                sw.WriteLine(stopwatchElapsed.TotalMilliseconds.ToString());
+            }	
+
+        }
+        
     }
 }
