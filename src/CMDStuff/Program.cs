@@ -10,6 +10,10 @@ namespace CMDStuff
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+//            // This does not work - netcore vs netframework??
+//            var logger = new Logger.Logger(true);
+//            logger.Log("This is logged!");
             
             var uts = new UseTheStopwatch();
             Console.WriteLine("Running stopwatch");
