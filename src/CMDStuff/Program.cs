@@ -37,8 +37,6 @@ namespace CMDStuff
 //            WriteResultToFile(stopwatch.Elapsed);
 //            
 //#endif
-            
-            
         }
     }
 
